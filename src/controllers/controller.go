@@ -11,4 +11,4 @@ type ControllerMethods interface {
 type Controller struct {
 }
 
-//func newController(d database)
+func newController(d database)
